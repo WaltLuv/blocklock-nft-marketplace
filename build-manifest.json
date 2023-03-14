@@ -1,0 +1,57 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/BlpbEs3hBaZV738BQ2_vN/_buildManifest.js",
+    "static/BlpbEs3hBaZV738BQ2_vN/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-0022716e68310904.js",
+      "static/chunks/framework-36098b990598bc0c.js",
+      "static/chunks/main-a00188b5d49149a0.js",
+      "static/chunks/668-33986a052c8dadd6.js",
+      "static/chunks/pages/index-f33125bbe284b5ae.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-0022716e68310904.js",
+      "static/chunks/framework-36098b990598bc0c.js",
+      "static/chunks/main-a00188b5d49149a0.js",
+      "static/css/3fc490e1c70d40d7.css",
+      "static/chunks/pages/_app-249d76e10ad8359a.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-0022716e68310904.js",
+      "static/chunks/framework-36098b990598bc0c.js",
+      "static/chunks/main-a00188b5d49149a0.js",
+      "static/chunks/pages/_error-409f831d3504c8f5.js"
+    ],
+    "/addItem": [
+      "static/chunks/webpack-0022716e68310904.js",
+      "static/chunks/framework-36098b990598bc0c.js",
+      "static/chunks/main-a00188b5d49149a0.js",
+      "static/chunks/668-33986a052c8dadd6.js",
+      "static/chunks/pages/addItem-5d11782a28872a8a.js"
+    ],
+    "/create": [
+      "static/chunks/webpack-0022716e68310904.js",
+      "static/chunks/framework-36098b990598bc0c.js",
+      "static/chunks/main-a00188b5d49149a0.js",
+      "static/chunks/668-33986a052c8dadd6.js",
+      "static/chunks/pages/create-4edc0e9bc5d1cee7.js"
+    ],
+    "/listing/[listingId]": [
+      "static/chunks/webpack-0022716e68310904.js",
+      "static/chunks/framework-36098b990598bc0c.js",
+      "static/chunks/main-a00188b5d49149a0.js",
+      "static/chunks/668-33986a052c8dadd6.js",
+      "static/chunks/840-7e8fa2586fd3992b.js",
+      "static/chunks/pages/listing/[listingId]-d2e252e83f6e3b24.js"
+    ]
+  },
+  "ampFirstPages": []
+}

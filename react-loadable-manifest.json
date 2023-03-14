@@ -1,0 +1,152 @@
+{
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./edition-aacf7f93.esm.js": {
+    "id": 28808,
+    "files": [
+      "static/chunks/808.ef2dbaf4e2c6653b.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./edition-drop-fd28a358.esm.js": {
+    "id": 32811,
+    "files": [
+      "static/chunks/811.0c1a9d900f32e5b2.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./marketplace-c980044a.esm.js": {
+    "id": 74403,
+    "files": [
+      "static/chunks/403.addffb8e14b4449f.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./multiwrap-a8a400e6.esm.js": {
+    "id": 34454,
+    "files": [
+      "static/chunks/454.0afe7f8d64ef75db.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./nft-collection-86d43dfe.esm.js": {
+    "id": 71791,
+    "files": [
+      "static/chunks/791.0c7bf7b8ca39ef3e.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./nft-drop-b591826d.esm.js": {
+    "id": 13127,
+    "files": [
+      "static/chunks/127.ec79712000dfb092.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./pack-cc4fd0d3.esm.js": {
+    "id": 60267,
+    "files": [
+      "static/chunks/267.97cdd4c4a46dd936.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./signature-drop-5a36b1e2.esm.js": {
+    "id": 52515,
+    "files": [
+      "static/chunks/515.119991d5e4d6ced3.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./split-ee0b99c8.esm.js": {
+    "id": 16607,
+    "files": [
+      "static/chunks/607.d3e9a5492999b86a.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./token-0581e4c1.esm.js": {
+    "id": 37706,
+    "files": [
+      "static/chunks/706.3f03072b5e279b7f.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./token-drop-7103b863.esm.js": {
+    "id": 51621,
+    "files": [
+      "static/chunks/621.622d51db98fe6f55.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> ./vote-335cf105.esm.js": {
+    "id": 12903,
+    "files": [
+      "static/chunks/903.c3684811bd8e9ce6.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/DropERC1155.json": {
+    "id": 50044,
+    "files": [
+      "static/chunks/44.788f26404622cf89.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/DropERC20.json": {
+    "id": 37891,
+    "files": [
+      "static/chunks/891.5878c3d67578db23.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/DropERC721.json": {
+    "id": 88110,
+    "files": [
+      "static/chunks/110.6107ca34c17da885.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/Marketplace.json": {
+    "id": 94247,
+    "files": [
+      "static/chunks/247.5676a573535e01ae.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/Multiwrap.json": {
+    "id": 86164,
+    "files": [
+      "static/chunks/164.f1840f0d5f742f80.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/Pack.json": {
+    "id": 65236,
+    "files": [
+      "static/chunks/236.124f179fb1588a63.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/SignatureDrop.json": {
+    "id": 33199,
+    "files": [
+      "static/chunks/199.4edf208cff7f2423.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/Split.json": {
+    "id": 64506,
+    "files": [
+      "static/chunks/506.f177066af6030b11.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/TokenERC1155.json": {
+    "id": 22610,
+    "files": [
+      "static/chunks/610.58dfd663b0f2625e.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/TokenERC20.json": {
+    "id": 83028,
+    "files": [
+      "static/chunks/28.a3512e5a1f1f5df0.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/TokenERC721.json": {
+    "id": 88777,
+    "files": [
+      "static/chunks/777.68309a2b135a68dc.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/dist/abis/VoteERC20.json": {
+    "id": 59695,
+    "files": [
+      "static/chunks/695.5e2c93b005a746b6.js"
+    ]
+  },
+  "../node_modules/@thirdweb-dev/sdk/dist/paper-xyz-4e22fb54.esm.js -> @thirdweb-dev/contracts-js/factories/TWProxy__factory": {
+    "id": 40197,
+    "files": [
+      "static/chunks/197.5769a1bc1c3297da.js"
+    ]
+  }
+}
